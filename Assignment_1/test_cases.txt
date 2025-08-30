@@ -1,0 +1,20 @@
+Test 1: Input -> 10, 5, 1
+Output -> 10 + 5 = 15
+
+Test 2: Input -> 15, 8, 2
+Output -> 15 - 8 = 7
+
+Test 3: Input -> 4, 6, 3
+Output -> 4 * 6 = 24
+
+Test 4: Input -> 20, 5, 4
+Output -> 20 / 5 = 4.0
+
+Test 5: Input -> 9, 0, 4
+Output -> Error: Cannot divide by zero
+
+Test 6: Input -> a, 5
+Output -> Invalid input. Enter an integer.
+
+Test 7: Input -> 8, 2, 9
+Output -> Invalid operation!!!
